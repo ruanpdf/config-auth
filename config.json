@@ -1,5 +1,7 @@
 {
   "ltdbuyer": {
-    "enable": true
+    "enable": {
+      "1.0": true
+    }
   }
 }
